@@ -23,7 +23,7 @@
 	<CustomizeWidthOfRuleDialog></CustomizeWidthOfRuleDialog>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
-	<Expression>item.qpid(0242ac170003a1ef88e92910de643f3f.0242AC170003A1EF88E92910DE2D3F3F) is not null</Expression>
+	<Expression>item.qpid(0242ac170003a1ef88e92910de643f3f.0242AC170003A1EF88E930F3FC4C09DA) == &quot;null&quot;</Expression>
 	<HideHeaderFooterOnRuleDialog>false</HideHeaderFooterOnRuleDialog>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
@@ -64,13 +64,13 @@
 			<CreatedBy>sysadmin</CreatedBy>
 			<CreationDate>2024-06-06T01:51:41.231</CreationDate>
 			<Notes/>
-			<EncodedExpression>item.qpid(0242ac170003a1ef88e92910de643f3f.0242AC170003A1EF88E92910DE2D3F3F) is not null</EncodedExpression>
-			<ErrorMessage></ErrorMessage>
-			<HumanExpression>item.Properties.Count is not null</HumanExpression>
-			<IsAdvancedOnly>0</IsAdvancedOnly>
+			<EncodedExpression>item.qpid(0242ac170003a1ef88e92910de643f3f.0242AC170003A1EF88E930F3FC4C09DA) == &quot;null&quot;</EncodedExpression>
+			<ErrorMessage>You have created an expression that cannot be represented in basic mode.</ErrorMessage>
+			<HumanExpression>item.Properties.LastCheckedAt == &quot;null&quot;</HumanExpression>
+			<IsAdvancedOnly>1</IsAdvancedOnly>
 			<IsPropertyNameOnly>0</IsPropertyNameOnly>
 			<IsValid>1</IsValid>
-			<QueryCriteria>{&quot;type&quot;:&quot;AND&quot;,&quot;id&quot;:&quot;FA96376C08D240C2B5FCE3351354AE86&quot;,&quot;terms&quot;:[{&quot;type&quot;:&quot;PropertyTerm&quot;,&quot;id&quot;:&quot;0242AC170003A1EF88E92910DE2D3F3F&quot;,&quot;itemMemberId&quot;:&quot;0242AC170003A1EF88E92910DE643F3F&quot;,&quot;propertyId&quot;:&quot;0242AC170003A1EF88E92910DE2D3F3F&quot;,&quot;dataType&quot;:&quot;Integer&quot;,&quot;comparison&quot;:{&quot;operator&quot;:&quot;IsNotNull&quot;},&quot;itemMemberPropertyId&quot;:{&quot;itemMemberPath&quot;:[],&quot;itemMemberId&quot;:&quot;0242AC170003A1EF88E92910DE643F3F&quot;,&quot;propertyId&quot;:&quot;0242AC170003A1EF88E92910DE2D3F3F&quot;},&quot;fullHumanPropertyName&quot;:&quot;item.Properties.Count&quot;}]}</QueryCriteria>
+			<QueryCriteria></QueryCriteria>
 			<DisplayName/>
 			<Entity>
 				<uri
@@ -86,12 +86,12 @@
 			<UsedProperties>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="0242ac17-0003-a1ef-88e9-caed1b3c826d">
-					<DocumentID>0242ac17-0003-a1ef-88e9-caed1b30026d</DocumentID>
-					<Name>0242ac17-0003-a1ef-88e9-caed1b30026d</Name>
-					<Description>item.Properties.Count</Description>
+					RuntimeDocumentID="0242ac17-0003-a1ef-88ea-f1a707e18593">
+					<DocumentID>0242ac17-0003-a1ef-88ea-f1a707a80593</DocumentID>
+					<Name>0242ac17-0003-a1ef-88ea-f1a707a80593</Name>
+					<Description>0242ac17-0003-a1ef-88ea-f1a707a80593</Description>
 					<CreatedBy>sysadmin</CreatedBy>
-					<CreationDate>2024-06-06T01:51:57.224</CreationDate>
+					<CreationDate>2024-06-06T02:26:34.076</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
@@ -112,7 +112,7 @@
 					</PathBegin>
 					<PathEnd>
 						<uri
-							id="0242ac17-0003-a1ef-88e9-2910de16bf3f"
+							id="0242ac17-0003-a1ef-88e9-30f3fc3d09da"
 						/>
 					</PathEnd>
 					<RootOwner>

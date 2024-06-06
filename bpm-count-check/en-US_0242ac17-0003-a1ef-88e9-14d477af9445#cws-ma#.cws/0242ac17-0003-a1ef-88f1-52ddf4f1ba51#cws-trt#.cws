@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac17-0003-a1ef-88f1-52ddf500ba51">
+	<DocumentID>0242ac17-0003-a1ef-88f1-52ddf4f1ba51</DocumentID>
+	<Name>0242ac17-0003-a1ef-88f1-52ddf4f1ba51</Name>
+	<Description>Healthcheck</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-06-06T05:33:15.811</CreationDate>
+	<Notes/>
+	<Text>Healthcheck</Text>
+	<Language>
+		<uri
+			id="0242ac17-0003-a1ef-88e9-14d454829445"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac17-0003-a1ef-88f1-52ddf4d3ba51"
+		/>
+	</TextIdentifier>
+</TranslatedText>

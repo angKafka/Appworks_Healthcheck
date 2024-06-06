@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac17-0003-a1ef-88ea-a8931bcb826d">
+	<DocumentID>0242ac17-0003-a1ef-88ea-a8931bbf026d</DocumentID>
+	<Name>0242ac17-0003-a1ef-88ea-a8931bbf026d</Name>
+	<Description>Queued</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-06-06T02:23:52.032</CreationDate>
+	<Notes/>
+	<Text>Queued</Text>
+	<Language>
+		<uri
+			id="0242ac17-0003-a1ef-88e9-14d454829445"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac17-0003-a1ef-88ea-a8931ba1026d"
+		/>
+	</TextIdentifier>
+</TranslatedText>

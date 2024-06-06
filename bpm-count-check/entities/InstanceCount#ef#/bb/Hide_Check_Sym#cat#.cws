@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="0242ac17-0003-a1ef-88f7-64c216543a51">
+	<DocumentID>0242ac17-0003-a1ef-88f7-64c21647ba51</DocumentID>
+	<Name>Hide_Check_Sym</Name>
+	<Description>Hide_Check_Sym</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-06-06T08:21:10.625</CreationDate>
+	<Notes/>
+	<referenceCount>0</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="0242ac17-0003-a1ef-88e7-f62ad5692290"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

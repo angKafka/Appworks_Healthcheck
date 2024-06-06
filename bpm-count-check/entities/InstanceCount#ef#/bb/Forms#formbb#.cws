@@ -1,0 +1,19 @@
+
+<FormBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.form.FormBuildingBlock"
+	typeVersion="B676A82B-2661-475F-B6D4-2DE9D084E191"
+	RuntimeDocumentID="0242ac17-0003-a1ef-88e7-f62ad6c22290">
+	<DocumentID>0242ac17-0003-a1ef-88e7-f62ad6a6a290</DocumentID>
+	<Name>Forms</Name>
+	<Description>Forms</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-06-06T01:35:14.882</CreationDate>
+	<Notes/>
+	<Entity>
+		<uri
+			id="0242ac17-0003-a1ef-88e7-f62ad76c2290"
+		/>
+	</Entity>
+	<Forms/>
+</FormBuildingBlock>

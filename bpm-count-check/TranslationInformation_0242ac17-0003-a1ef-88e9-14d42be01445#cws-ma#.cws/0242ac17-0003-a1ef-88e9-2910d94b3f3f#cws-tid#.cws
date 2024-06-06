@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="0242ac17-0003-a1ef-88e9-2910d95a3f3f">
+	<DocumentID>0242ac17-0003-a1ef-88e9-2910d94b3f3f</DocumentID>
+	<Name>0242ac17-0003-a1ef-88e9-2910d94b3f3f</Name>
+	<Description>CountList</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-06-06T01:35:14.876</CreationDate>
+	<Notes/>
+	<DefaultText>CountList</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="0242ac17-0003-a1ef-88e9-14d3b3bd1445"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="0242ac17-0003-a1ef-88e9-2910d9693f3f"
+		/>
+	</Translations>
+</TextIdentifier>

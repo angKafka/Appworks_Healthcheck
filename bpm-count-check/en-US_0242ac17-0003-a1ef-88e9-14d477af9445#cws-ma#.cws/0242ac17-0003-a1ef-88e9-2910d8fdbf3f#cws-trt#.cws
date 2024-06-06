@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac17-0003-a1ef-88e9-2910d9193f3f">
+	<DocumentID>0242ac17-0003-a1ef-88e9-2910d8fdbf3f</DocumentID>
+	<Name>0242ac17-0003-a1ef-88e9-2910d8fdbf3f</Name>
+	<Description>BPM_HEALTHCHEK_GRAPH</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-06-06T01:35:14.896</CreationDate>
+	<Notes/>
+	<Text>BPM_HEALTHCHEK_GRAPH</Text>
+	<Language>
+		<uri
+			id="0242ac17-0003-a1ef-88e9-14d454829445"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac17-0003-a1ef-88e9-2910d8c93f3f"
+		/>
+	</TextIdentifier>
+</TranslatedText>
